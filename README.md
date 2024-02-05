@@ -26,7 +26,7 @@ The repo is public and can be cloned at:
 ## Testing
 
 Requirements
-Requirements
+
 Find unusual patterns in hourly Google search traffic (25 points)
 Read the search data into a DataFrame. (5 points)
 
@@ -83,9 +83,11 @@ What's the lowest point for search traffic in the calendar year? (1 point)
 
 ## Built With
 
-Visual Code Basic
-GitHub Copilot
-ChatGPT
+*Visual Code Basic
+
+*GitHub Copilot
+
+*ChatGPT
 
 ## Contributing
 
@@ -98,7 +100,7 @@ ChatGPT
 
 ## License
 
-This project is not licensed. 
+*This project is not licensed. 
 
  
 
